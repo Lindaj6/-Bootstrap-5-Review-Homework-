@@ -6,7 +6,7 @@ body{
 }
 .gradient{
     background: rgb(255,255,255);
-background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(81,130,152,1) 25%, rgba(113,94,148,1) 88%);
+background: linear-gradient(90deg, rgb(208, 229, 245) 0%, rgba(190, 217, 236) 25%, rgb(172, 151, 212) 88%);
 }
 .page-header {
     margin-top: 4rem;
@@ -14,7 +14,7 @@ background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(81,130,152,1) 25
     color:rgb(0, 0, 0)
 }
 .feature{
-    color: rgb(158, 202, 183);
+    color: rgb(89, 134, 115);
 }
 .feature ul{
     padding-left: 2rem;
@@ -42,4 +42,17 @@ background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(81,130,152,1) 25
 }
 .gallery img{
     border-radius: 5%;
+}
+.services{
+    color:rgb(252, 240, 247);
+}
+footer{
+    color:rgb(47, 94, 134);
+    font-size: 1rem;
+    margin: 0;
+    padding: 1rem;
+}
+a {
+    color: aquamarine;
+    text-decoration:none ;
 }
